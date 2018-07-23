@@ -33,6 +33,8 @@ Collection of software to deal with different types of RNA-Seq
 - [DaPars](https://github.com/ZhengXia/DaPars)
 - [APAtrap](https://sourceforge.net/projects/apatrap/)
 - [MAT3UTR](https://github.com/thejustpark/MAT3UTR)
+- [TAPAS](https://github.com/arefeen/TAPAS)
+- [apa](https://github.com/grexor/apa)
 
 ## LncRNA
 - [UClncR](http://bioinformaticstools.mayo.edu/research/uclncr-pipeline/)
